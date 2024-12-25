@@ -1,0 +1,25 @@
+.counter {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .counter p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .counter button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .counter button:hover {
+    background-color: #0056b3;
+  }
+  
